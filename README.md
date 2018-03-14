@@ -19,3 +19,24 @@
     auto	如果溢出框，则应该提供滚动机制。
     no-display	如果内容不适合内容框，则删除整个框。	
     no-content	如果内容不适合内容框，则隐藏整个内容
+
+
+
+ 例子：
+ 
+ 
+           <style> 
+div
+{
+width:110px;
+height:110px;
+border:thin solid black;
+overflow-y:auto;
+}
+</style>
+
+<div><p style="width:140px">
+   这是一个段落。这是一个段落。这是一个段落。这是一个段落。
+   这是一个段落。这是一个段落。这是一个段落。这是一个段落。
+  </p>
+</div>
