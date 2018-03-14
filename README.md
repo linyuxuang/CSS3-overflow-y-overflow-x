@@ -24,19 +24,19 @@
 
  例子：
  
- 
-           <style> 
-div
-{
-width:110px;
-height:110px;
-border:thin solid black;
-overflow-y:auto;
-}
-</style>
+  
+              <style> 
+                  div
+                  {
+                  width:110px;
+                  height:110px;
+                  border:thin solid black;
+                  overflow-y:auto;
+                  }
+                  </style>
 
-<div><p style="width:140px">
-   这是一个段落。这是一个段落。这是一个段落。这是一个段落。
-   这是一个段落。这是一个段落。这是一个段落。这是一个段落。
-  </p>
-</div>
+                  <div><p style="width:140px">
+                     这是一个段落。这是一个段落。这是一个段落。这是一个段落。
+                     这是一个段落。这是一个段落。这是一个段落。这是一个段落。
+                    </p>
+                  </div>
